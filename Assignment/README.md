@@ -1,1 +1,1 @@
-This is a C# as
+This is a C# OOP assignment in QUT.
